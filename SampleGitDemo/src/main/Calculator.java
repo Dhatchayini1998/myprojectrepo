@@ -6,7 +6,6 @@ public class Calculator {
       System.out.println("Hello World");
       add(10,20);
       
-      
      
 	}
 	 public static void add(int num1,int num2){
@@ -26,18 +25,11 @@ public class Calculator {
 	 public static void mod(int num1,int num2){
          System.out.println(num1%num2);
      }
-
-	 public static void cube(int num1){
-         System.out.println(num1*num1*num1);
-     }
-	 
-
 	public static void sqaure(int num1){
 		System.out.println(num1*num1);
 	}
-	
 	public static void four(int num1){
 		System.out.println(num1*num1*num1*num1);
 	}
-    
+	
 }
