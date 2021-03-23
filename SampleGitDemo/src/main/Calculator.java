@@ -25,14 +25,21 @@ public class Calculator {
 	 public static void mod(int num1,int num2){
          System.out.println(num1%num2);
      }
+
 	public static void sqaure(int num1){
 		System.out.println(num1*num1);
 	}
 	public static void four(int num1){
 		System.out.println(num1*num1*num1*num1);
 	}
+
+	public static void br1func1(int num1){
+		System.out.println(num1*num1*num1*num1);
+	}
+
 	public static void master1func1(int num1){
 		System.out.println(num1*num1*num1*num1);
 	}
 	
+
 }
